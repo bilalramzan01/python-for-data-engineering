@@ -54,4 +54,48 @@ This repository documents my complete learning journey of Python from basics to 
 
 ---
 
-## 📁 Repository Structure
+
+---
+
+## 🚀 Projects
+
+- Calculator (PF)
+- Student Management System (OOP)
+- Library System (OOP)
+- Data Processing Scripts
+- DSA Problem Solutions
+
+---
+
+## 🛠 Tools & Technologies
+
+- Python  
+- Git & GitHub  
+- SQL (coming soon)  
+- Data Engineering tools (future learning)
+
+---
+
+## 📌 Learning Approach
+
+- Learn concepts → Practice problems → Build projects  
+- Focus on consistency over speed  
+- Write clean and readable code  
+
+---
+
+## 📈 Progress Tracking
+
+- [ ] PF completed  
+- [ ] OOP completed  
+- [ ] DSA completed  
+- [ ] SQL basics  
+- [ ] Data Engineering concepts  
+
+---
+
+## 🤝 Purpose
+
+This repository is part of my journey toward becoming a Data Engineer and building strong programming foundations.
+
+---
