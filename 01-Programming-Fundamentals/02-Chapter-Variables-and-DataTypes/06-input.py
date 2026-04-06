@@ -1,0 +1,5 @@
+a=float(input("Ent num 1 "))
+b=float(input("Ent Num 2 "))
+print("A is", a)
+print("B is", b)
+print("Sum is ",a+b)
