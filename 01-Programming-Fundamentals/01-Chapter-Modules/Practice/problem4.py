@@ -7,9 +7,9 @@ import os
 # specify the directory path (use '.' for current directory)
 path = "D:/Repositories/python-for-data-engineering/01-Programming-Fundamentals/01-Chapter/Practice"
 
-# get the list of contents
+# get the list of content
 contents = os.listdir(path)
 
-# print each item
+# print each items
 for item in contents:
     print(item)
