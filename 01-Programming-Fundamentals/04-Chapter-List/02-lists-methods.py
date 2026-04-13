@@ -3,7 +3,7 @@ print(data)
 data.append("Wajeh")
 print(data)
 
-l1 = [1,43,22,45,65,43,2,4,]
+l1 = [1,43,22,45,65,43,2,4,"Wajeh"]
 l1.sort()
 print(l1)
 
