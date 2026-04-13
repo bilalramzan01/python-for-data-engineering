@@ -1,4 +1,4 @@
-data = ["Bilal", 3 , "Apple", "Acadmey", 3.6]
+data = ["Bilal", 3 , "Apple", "Acadmey", 3.6, "Wajeh"]
 print(data)
 data.append("Wajeh")
 print(data)
