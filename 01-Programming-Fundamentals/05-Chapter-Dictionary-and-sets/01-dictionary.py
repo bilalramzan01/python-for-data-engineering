@@ -5,4 +5,4 @@
 marks = {"Math": 90, "Science": 85, "English": 92}
 print(marks)
 print(type(marks))
-print(marks["Math"])  # Accessing value using key
+print(marks["Mat"])  # Accessing value using key
